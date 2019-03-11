@@ -1,0 +1,5 @@
+00*
+*.log
+*checkpoint*
+meteo.csv
+profile.csv
